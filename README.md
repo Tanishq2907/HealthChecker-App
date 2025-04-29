@@ -1,4 +1,4 @@
-![SWOT Analysis](ScreenShots/Swot Anaylsis.avif)
+![SWOT Analysis](ScreenShots/Swot%20Anaylsis.avif)
 
 # HealthChecker App
 
