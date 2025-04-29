@@ -7,7 +7,7 @@ Built with modern technologies to ensure high performance, security, and scalabi
 
 ---
 ![App](https://user-images.githubusercontent.com/79870979/235880881-0dad4801-499d-43c1-b2ea-396628b934f1.PNG)
-## ?? Features
+##   Features
 
 - User Authentication: Secure login and registration using JWT.
 - Symptom Checker: AI-based initial diagnosis recommendations.
@@ -22,7 +22,7 @@ Built with modern technologies to ensure high performance, security, and scalabi
 
 ---
 
-## ?? Technology Stack
+##   Technology Stack
 
 ### Backend (Java + Spring Boot)
 | Part        | Technology                               |
@@ -53,7 +53,7 @@ Built with modern technologies to ensure high performance, security, and scalabi
 
 ---
 
-?? Installation and Setup Instructions
+  Installation and Setup Instructions
 
 ### 1. Clone the Repo
 
@@ -106,7 +106,7 @@ npm run dev
 
 ---
 
-## ?? API Keys & Configuration
+##   API Keys & Configuration
 
 Update the following inside `application.properties`:
 
@@ -119,7 +119,7 @@ ai.api.key=your_together_ai_key
 
 ---
 
-## ?? Try It Out
+##   Try It Out
 
 You can try the app locally by running both frontend and backend, or deploy it to:
 
@@ -129,13 +129,13 @@ You can try the app locally by running both frontend and backend, or deploy it t
 ---
 
 
-## ????? Developer
+##   ? Developer
 
 - Tanishq Giri
 
 ---
 
-## ?? License
+##   License
 
 This project is licensed under the **MIT License**.  
 Feel free to use, modify, and contribute!
