@@ -129,7 +129,7 @@ You can try the app locally by running both frontend and backend, or deploy it t
 ---
 
 
-##   ? Developer
+##    Developer
 
 - Tanishq Giri
 
