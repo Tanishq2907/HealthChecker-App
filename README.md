@@ -31,7 +31,7 @@ Built with modern technologies to ensure high performance, security, and scalabi
 | Web Framework | Spring Web |
 | Security | Spring Security, JWT (JSON Web Tokens) |
 | Database ORM | Spring Data JPA (Hibernate) |
-| Database | PostgreSQL (Production) / H2 (Testing) |
+| Database | SQL |
 | Real-Time Communication | WebSocket (Spring WebSocket) |
 | AI Integration | Together AI API (Free alternative to OpenAI) |
 | External Libraries/APIs | Spring Boot Starter Libraries, Together AI REST API, WebSocket (SockJS, StompJS) |
